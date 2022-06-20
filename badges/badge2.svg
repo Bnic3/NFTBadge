@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1.17505,0,0,1.38497,-187.317,-206.662)">
+        <path d="M490.441,158.885L728.819,302.802L637.767,535.666L343.115,535.666L252.063,302.802L490.441,158.885Z" style="fill:white;stroke:rgb(0,39,56);stroke-opacity:0.71;stroke-width:8.27px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,266.972,-333.989)">
+        <text x="19.751px" y="551.498px" style="font-family:'AppleSymbols', 'Apple Symbols';font-size:51px;">recognised</text>
+    </g>
+    <g transform="matrix(0.675997,0,0,0.855328,459.283,-286.483)">
+        <path d="M52.806,502.787C52.806,499.325 56.127,496.515 60.218,496.515C64.309,496.515 67.63,499.325 67.63,502.787C69.676,499.789 74.213,498.76 77.756,500.491C81.299,502.222 82.514,506.061 80.469,509.059C84.012,507.328 88.549,508.356 90.594,511.354C92.64,514.352 91.424,518.191 87.881,519.922C91.972,519.922 95.294,522.732 95.294,526.194C95.294,529.655 91.972,532.465 87.881,532.465C91.424,534.196 92.64,538.035 90.594,541.033C88.549,544.031 84.012,545.059 80.469,543.329C82.514,546.326 81.299,550.165 77.756,551.896C74.213,553.627 69.676,552.598 67.63,549.6C67.63,553.062 64.309,555.872 60.218,555.872C56.127,555.872 52.806,553.062 52.806,549.6C50.76,552.598 46.223,553.627 42.68,551.896C39.137,550.165 37.922,546.326 39.967,543.329C36.424,545.059 31.887,544.031 29.842,541.033C27.796,538.035 29.012,534.196 32.555,532.465C28.464,532.465 25.142,529.655 25.142,526.194C25.142,522.732 28.464,519.922 32.555,519.922C29.012,518.191 27.796,514.352 29.842,511.354C31.887,508.356 36.424,507.328 39.967,509.059C37.922,506.061 39.137,502.222 42.68,500.491C46.223,498.76 50.76,499.789 52.806,502.787Z" style="fill:rgb(255,181,34);stroke:black;stroke-width:0.69px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,268.685,-308.978)">
+        <text x="18.038px" y="482.884px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:63.75px;">ETNA</text>
+    </g>
+    <g id="icons8-badge-58" transform="matrix(0.5308,0,0,0.563512,484.597,147.243)">
+        <use xlink:href="#_Image1" x="0" y="0" width="58px" height="58px"/>
+    </g>
+    <rect x="228.734" y="236.436" width="349.603" height="3.283" style="fill-opacity:0.64;stroke:black;stroke-width:0.53px;"/>
+    <g transform="matrix(1,0,0,1,-3.53505,141.604)">
+        <rect x="228.734" y="236.436" width="349.603" height="3.283" style="fill-opacity:0.64;stroke:black;stroke-width:0.53px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,198.485,-254.936)">
+        <text x="64.194px" y="545.355px" style="font-family:'Avenir-Black', 'Avenir', sans-serif;font-weight:800;font-size:51px;">PROJECT</text>
+    </g>
+    <g transform="matrix(1,0,0,1,174.688,-203.43)">
+        <text x="64.194px" y="545.355px" style="font-family:'Avenir-Black', 'Avenir', sans-serif;font-weight:800;font-size:51px;">MANAGER</text>
+    </g>
+    <defs>
+        <image id="_Image1" width="58px" height="58px" xlink:href="data:image/png;base64,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"/>
+    </defs>
+</svg>
